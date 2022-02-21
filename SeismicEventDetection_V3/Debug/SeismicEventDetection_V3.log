@@ -1,0 +1,24 @@
+﻿  SeismicEventDetection_V3.cpp
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(287,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(290,139): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(332,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(335,140): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(377,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(382,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(390,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(395,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(402,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(407,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(415,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(420,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(428,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(433,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(441,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(446,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(454,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(459,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(467,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(472,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(488,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\SeismicEventDetection_V3\SeismicEventDetection_V3.cpp(489,83): warning C4305: 'argument': truncation from 'double' to 'float'
+  SeismicEventDetection_V3.vcxproj -> C:\Users\kenjo\DT008_Year 3\Software Design 2\SeismicEventDetection_V3\Debug\SeismicEventDetection_V3.exe

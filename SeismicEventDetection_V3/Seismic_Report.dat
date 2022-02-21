@@ -1,0 +1,53 @@
+ ====================================================================================
+ ==== This is the data file containing the times of potential seismic events, =======
+ ==== the corresponding short time to long-time power ratio and threshold values ====
+ ====================================================================================
+
+ The first valid point is at the time 0.04s for which: 
+ The Value for short time power is: 1
+ The value for long time power is: 1.6
+ The value of the Threshold is: 1.5
+ The Value for ratio is: 0.625
+ No Event has occurred 
+ 
+ The next valid point is at time 0.05s for which: 
+ The Value for short time power is: 13
+ The value for long time power is: 6.4
+ The value of the Threshold is: 1.5
+ The Value for ratio is: 2.03125
+ **WARNING!! EARTHQUAKE EVENT HAS OCCURRED!** 
+ 
+ The next valid point is at time 0.06s for which: 
+ The Value for short time power is: 20.5
+ The value for long time power is: 8.8
+ The value of the Threshold is: 1.5
+ The Value for ratio is: 2.32955
+ **WARNING!! EARTHQUAKE EVENT HAS OCCURRED!** 
+ 
+ The next valid point is at time 0.07s for which: 
+ The Value for short time power is: 10
+ The value for long time power is: 9.4
+ The value of the Threshold is: 1.5
+ The Value for ratio is: 1.06383
+ No Event has occurred 
+ 
+ The next valid point is at time 0.08s for which: 
+ The Value for short time power is: 2.5
+ The value for long time power is: 9.4
+ The value of the Threshold is: 1.5
+ The Value for ratio is: 0.265957
+ No Event has occurred 
+ 
+ The next valid point is at time 0.09s for which: 
+ The Value for short time power is: 1
+ The value for long time power is: 9.4
+ The value of the Threshold is: 1.5
+ The Value for ratio is: 0.106383
+ No Event has occurred 
+ 
+ The next valid point is at time 0.1s for which: 
+ The Value for short time power is: 1
+ The value for long time power is: 4.6
+ The value of the Threshold is: 1.5
+ The Value for ratio is: 0.217391
+ No Event has occurred 
